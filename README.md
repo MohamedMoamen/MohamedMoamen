@@ -9,7 +9,9 @@ I'm a motivated Frontend Developer with 2 years of hands-on practice in building
 ##Contact Me:
 
 Gmail: [mohamedmoamen96@gmail.com](mailto:mohamedmoamen96@gmail.com)
+
 LinkedIn: [Mohamed Moamen](https://www.linkedin.com/in/mohamed-moamen-24033a221/)
+
 Portfolio: [My Portfolio](https://portfolio-three-omega-fabp5h3znx.vercel.app/)
 
 ##Skills:
@@ -30,18 +32,21 @@ Portfolio: [My Portfolio](https://portfolio-three-omega-fabp5h3znx.vercel.app/)
 
 #E-Commerce Web Application:
 
-Built an interactive and fully functional e-commerce shopping cart using React. The application allows users to browse products, add or remove items from the cart ,update quantities, and view dynamic totals. It features a responsive UI optimized for all screen sizes and includes essential e-commerce functionality. 
+Built an interactive and fully functional e-commerce shopping cart using React. The application allows users to browse products, add or remove items from the cart ,update quantities, and view dynamic totals. It features a responsive UI optimized for all screen sizes and includes essential e-commerce functionality.
+
   [Source Code](https://github.com/MohamedMoamen/E-commerceWebsite)
   [Live Demo](https://e-commerce-website-cyan-sigma.vercel.app/)
 
 #Admin Dashboard Web Application:
 
-Developed an interactive dashboard for data visualization and management using React.js and Syncfusion Charts. Utilized structured local data files for dynamic rendering and integrated modular components for improved scalability. Designed a fully responsive interface with Tailwind CSS.  
+Developed an interactive dashboard for data visualization and management using React.js and Syncfusion Charts. Utilized structured local data files for dynamic rendering and integrated modular components for improved scalability. Designed a fully responsive interface with Tailwind CSS.
+
   [Source Code](https://github.com/MohamedMoamen/Admin-Dashboard-App) 
   [Live Demo](https://admin-dashboard-app-opal.vercel.app/)
 
 #Real Time Weather Forecast Application:
 
-A responsive web application that displays real-time weather data by fetching live forecasts from an external API. Built with React and optimized for both desktop and mobile screens, and supports both Arabic and English languages.  
+A responsive web application that displays real-time weather data by fetching live forecasts from an external API. Built with React and optimized for both desktop and mobile screens, and supports both Arabic and English languages.
+
   [Source Code](https://github.com/MohamedMoamen/WeatherForecast)
   [Live Demo](https://weather-forecast-zeta-nine.vercel.app/)
