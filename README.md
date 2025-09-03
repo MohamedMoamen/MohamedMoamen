@@ -62,7 +62,3 @@ A responsive web application that displays real-time weather data by fetching li
   |
   [Live Demo](https://weather-forecast-zeta-nine.vercel.app/)
 
----
-
-## GitHub Stats
-![MohamedMoamen's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMoamen&show_icons=true&theme=radical)
