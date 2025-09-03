@@ -2,9 +2,13 @@
 
 Frontend Developer | React.js
 
+---
+
 ## About Me:
 
 I'm a motivated Frontend Developer with 2 years of hands-on practice in building responsive web applications using React.js, JavaScript, and modern frameworks. Skilled in API integration, component-based architecture, and performance optimization. Eager to contribute to innovative projects and grow in a dynamic development environment.
+
+---
 
 ## Contact Me:
 
@@ -13,6 +17,8 @@ Gmail: [mohamedmoamen96@gmail.com](mailto:mohamedmoamen96@gmail.com)
 LinkedIn: [Mohamed Moamen](https://www.linkedin.com/in/mohamed-moamen-24033a221/)
 
 Portfolio: [My Portfolio](https://portfolio-three-omega-fabp5h3znx.vercel.app/)
+
+---
 
 ## Skills:
 
