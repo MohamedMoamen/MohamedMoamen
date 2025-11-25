@@ -52,8 +52,8 @@ I enjoy solving complex problems, writing clean and maintainable code, and conti
 
 ---
 
-### 🛒 Full-Stack E-Commerce Application  
-A complete Laravel + React e-commerce platform with authentication, cart system, checkout, and advanced order workflow.
+### 🛒 Full-Stack E-Commerce Application (Laravel + React) 
+A complete e-commerce platform with authentication, cart system, checkout, and advanced order workflow.
 
 - Laravel API + React.js  
 - Admin panel to manage products, orders, and delivery members  
