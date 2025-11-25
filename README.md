@@ -60,8 +60,7 @@ A complete Laravel + React e-commerce platform with authentication, cart system,
 - Role-based access control  
 - File uploads + advanced SQL operations  
 
-[Source Code](#) | [Live Demo](#)
-
+[Source Code](https://github.com/MohamedMoamen/Ecommerce-FullStack-Application) 
 ---
 
 ### 💬 Real-Time Chat Application (Laravel Reverb + React)
@@ -72,7 +71,7 @@ Real-time private messaging system with message persistence.
 - Real-time broadcasting  
 - Secure authentication
 
-[Source Code](#)
+[Source Code](https://github.com/MohamedMoamen/Realtime_Chat_Application)
 
 ---
 
@@ -84,7 +83,7 @@ SaaS-like school platform using tenant_id isolation.
 - Blade-based admin panel  
 - Manage teachers, students, courses & enrollments  
 
-[Source Code](#)
+[Source Code](https://github.com/MohamedMoamen/multitenant_school_management_system_app)
 
 ---
 
