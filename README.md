@@ -61,6 +61,7 @@ A complete Laravel + React e-commerce platform with authentication, cart system,
 - File uploads + advanced SQL operations  
 
 [Source Code](https://github.com/MohamedMoamen/Ecommerce-FullStack-Application) 
+
 ---
 
 ### 💬 Real-Time Chat Application (Laravel Reverb + React)
