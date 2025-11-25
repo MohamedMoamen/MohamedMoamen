@@ -8,9 +8,9 @@ Fullstack Developer (PHP Laravel | React.js)
 
 Gmail: [mohamedmoamen96@gmail.com](mailto:mohamedmoamen96@gmail.com)
 
-LinkedIn: [Mohamed Moamen](https://www.linkedin.com/in/mohamed-moamen-24033a221/)
+LinkedIn: (https://www.linkedin.com/in/mohamed-moamen-24033a221/)
 
-Portfolio: [My Portfolio](https://portfolio-three-omega-fabp5h3znx.vercel.app/)
+Portfolio: (https://portfolio-three-omega-fabp5h3znx.vercel.app/)
 
 ---
 
