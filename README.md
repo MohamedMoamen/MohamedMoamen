@@ -1,12 +1,6 @@
-# Hi, I'm Mohamed Moamen,
+# Hi, I'm Mohamed Moamen
 
-Frontend Developer | React.js
-
----
-
-## About Me:
-
-I'm a motivated Frontend Developer with 2 years of hands-on practice in building responsive web applications using React.js, JavaScript, and modern frameworks. Skilled in API integration, component-based architecture, and performance optimization. Eager to contribute to innovative projects and grow in a dynamic development environment.
+Fullstack Developer (PHP Laravel | React.js)
 
 ---
 
@@ -20,8 +14,18 @@ Portfolio: [My Portfolio](https://portfolio-three-omega-fabp5h3znx.vercel.app/)
 
 ---
 
+## About Me:
+
+I'm a passionate Fullstack Developer specializing in **PHP Laravel** and **React.js**, with solid experience in building scalable applications, RESTful APIs, real-time systems, and dynamic user interfaces.
+
+Skilled in backend development (Laravel, MySQL, OOP) and modern frontend technologies (React, TypeScript, Redux).  
+I enjoy solving complex problems, writing clean and maintainable code, and continuously learning new technologies to deliver high-quality solutions.
+
+---
+
 ## Skills:
 
+### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -30,7 +34,15 @@ Portfolio: [My Portfolio](https://portfolio-three-omega-fabp5h3znx.vercel.app/)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+### **Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+
+### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
@@ -38,27 +50,66 @@ Portfolio: [My Portfolio](https://portfolio-three-omega-fabp5h3znx.vercel.app/)
 
 ## Featured Projects:
 
-### E-Commerce Web Application:
+---
 
-Built an interactive and fully functional e-commerce shopping cart using React. The application allows users to browse products, add or remove items from the cart ,update quantities, and view dynamic totals. It features a responsive UI optimized for all screen sizes and includes essential e-commerce functionality.
+### 🛒 Full-Stack E-Commerce Application  
+A complete Laravel + React e-commerce platform with authentication, cart system, checkout, and advanced order workflow.
 
-  [Source Code](https://github.com/MohamedMoamen/E-commerceWebsite)
-  |
-  [Live Demo](https://e-commerce-website-cyan-sigma.vercel.app/)
+- Laravel API + React.js  
+- Admin panel to manage products, orders, and delivery members  
+- Role-based access control  
+- File uploads + advanced SQL operations  
 
-### Admin Dashboard Web Application:
+[Source Code](#) | [Live Demo](#)
 
-Developed an interactive dashboard for data visualization and management using React.js and Syncfusion Charts. Utilized structured local data files for dynamic rendering and integrated modular components for improved scalability. Designed a fully responsive interface with Tailwind CSS.
+---
 
-  [Source Code](https://github.com/MohamedMoamen/Admin-Dashboard-App)
-  |
-  [Live Demo](https://admin-dashboard-app-opal.vercel.app/)
+### 💬 Real-Time Chat Application (Laravel Reverb + React)
 
-### Real Time Weather Forecast Application:
+Real-time private messaging system with message persistence.
 
-A responsive web application that displays real-time weather data by fetching live forecasts from an external API. Built with React and optimized for both desktop and mobile screens, and supports both Arabic and English languages.
+- WebSockets via Laravel Reverb  
+- Real-time broadcasting  
+- Secure authentication
 
-  [Source Code](https://github.com/MohamedMoamen/WeatherForecast)
-  |
-  [Live Demo](https://weather-forecast-zeta-nine.vercel.app/)
+[Source Code](#)
+
+---
+
+### 🏫 Multi-Tenant School Management System (Laravel)
+
+SaaS-like school platform using tenant_id isolation.
+
+- Multi-tenant structure  
+- Blade-based admin panel  
+- Manage teachers, students, courses & enrollments  
+
+[Source Code](#)
+
+---
+
+### 📊 Admin Dashboard Web Application (React)
+
+Interactive dashboard with charts & analytics.
+
+[Source Code](https://github.com/MohamedMoamen/Admin-Dashboard-App)  
+[Live Demo](https://admin-dashboard-app-opal.vercel.app/)
+
+---
+
+### 🛍️ E-Commerce Shopping Cart (React)
+
+Functional shopping cart with dynamic totals & responsive UI.
+
+[Source Code](https://github.com/MohamedMoamen/E-commerceWebsite)  
+[Live Demo](https://e-commerce-website-cyan-sigma.vercel.app/)
+
+---
+
+### 🌤️ Real-Time Weather Forecast App (React)
+
+Fetches real-time weather data with Arabic/English support.
+
+[Source Code](https://github.com/MohamedMoamen/WeatherForecast)  
+[Live Demo](https://weather-forecast-zeta-nine.vercel.app/)
 
