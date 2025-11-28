@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Moamen
 
-Fullstack Developer (PHP Laravel | React.js)
+Full Stack Developer | PHP Laravel & React.js
 
 ---
 
