@@ -76,6 +76,19 @@ Real-time private messaging system with message persistence.
 
 ---
 
+### 📇 CRM Module (Laravel + React)
+
+Role-based CRM platform with ticketing system and activity tracking.
+
+- Laravel API + React.js  
+- Role-based authentication (Admin, Sales, Support)  
+- Lead, deal, and ticket management
+- Ticket workflow with activity logs  
+
+[Source Code](https://github.com/MohamedMoamen/CRM_Module)
+
+---
+
 ### 🏫 Multi-Tenant School Management System (Laravel)
 
 SaaS-like school platform using tenant_id isolation.
