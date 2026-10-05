@@ -1,128 +1,162 @@
-# Hi, I'm Mohamed Moamen
+# Hi, I'm Mohamed Moamen 
 
-Full Stack Developer | PHP Laravel & React.js
+### Full Stack Developer | PHP Laravel & React.js
 
----
+## 📫 Contact Me
 
-## Contact Me:
-
-Gmail: [mohamedmoamen96@gmail.com](mailto:mohamedmoamen96@gmail.com)
-
-LinkedIn: https://www.linkedin.com/in/mohamed-moamen-24033a221/
-
-Portfolio: https://portfolio-three-omega-fabp5h3znx.vercel.app/
+- 📧 Gmail: [mohamedmoamen96@gmail.com](mailto:mohamedmoamen96@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mohamed-moamen-24033a221](https://www.linkedin.com/in/mohamed-moamen-24033a221/)
+- 🌐 Portfolio: [portfolio-three-omega-fabp5h3zn.vercel.app](https://portfolio-three-omega-fabp5h3zn.vercel.app/)
 
 ---
 
-## About Me:
+## 🧑‍💻 About Me
 
-I'm a passionate Fullstack Developer specializing in **PHP Laravel** and **React.js**, with solid experience in building scalable applications, RESTful APIs, real-time systems, and dynamic user interfaces.
+I'm a Full Stack Developer specializing in **PHP Laravel** and **React.js**, with hands-on experience building responsive web applications, RESTful APIs, real-time systems, and database-driven applications.
 
-Skilled in backend development (Laravel, MySQL, OOP) and modern frontend technologies (React, TypeScript, Redux).  
-I enjoy solving complex problems, writing clean and maintainable code, and continuously learning new technologies to deliver high-quality solutions.
+Skilled in backend development using **Laravel, MySQL, and OOP**, and modern frontend technologies including **React, Next.js, TypeScript, Redux Toolkit, and Tailwind CSS**.
+
+I enjoy solving problems, writing clean and maintainable code, and continuously improving my development skills.
 
 ---
 
-## Skills:
+## 🛠️ Skills
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
 
-### **Backend**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## Featured Projects:
-
----
-
-### 🛒 Full-Stack E-Commerce Application (Laravel + React) 
-A complete e-commerce platform with authentication, cart system, checkout, and advanced order workflow.
-
-- Laravel API + React.js  
-- Admin panel to manage products, orders, and delivery members  
-- Role-based access control  
-- File uploads + advanced SQL operations  
-
-[Source Code](https://github.com/MohamedMoamen/Ecommerce-FullStack-Application) 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
-### 💬 Real-Time Chat Application (Laravel Reverb + React)
+## 💼 Professional Experience
 
-Real-time private messaging system with message persistence.
+### Huma Volve — Backend Developer Intern
+**September 2026**
 
-- WebSockets via Laravel Reverb  
-- Real-time broadcasting  
-- Secure authentication
+- Worked with GitHub, Postman, and ClickUp in a professional development workflow.
+- Analyzed SRS and Figma requirements, reviewed and refactored AI-generated code, and applied Clean Code practices.
+- Worked with Laravel **Jobs & Queues** in backend tasks.
+
+### AfaaqWare — Frontend Developer Intern | Level 2
+**May 2026 – August 2026**
+
+- Built responsive and reusable components for **SurveyLand** using Next.js, TypeScript, Tailwind CSS, and React Query.
+- Integrated REST APIs and implemented Figma-based UI designs.
+- Worked with Git Flow, Pull Requests, code reviews, and Agile workflows.
+
+### AfaaqWare — Frontend Developer Intern | Fundamentals
+**April 2026**
+
+- Practiced Git Flow, branching, Pull Requests, and team development workflows.
+- Applied Atomic Design, Clean Architecture, reusable components, and responsive UI development.
+- Worked with REST APIs, React Query, Postman, and Next.js.
+
+### ECOTEL — Network Engineer
+**August 2021 – January 2025**
+
+- Managed and troubleshot switches, routers, firewalls, and servers across multiple sites.
+- Performed preventive maintenance, network security tasks, DHCP configuration, and structured cabling.
+
+---
+
+## 🎓 Education
+
+### Cairo University
+
+**B.S. in Electronics and Electrical Communication Engineering | 2020**
+
+**Graduation Project:**  
+Collision Avoidance and Warning System Using Convolutional Neural Network and V2V Communication
+
+---
+
+## 🚀 Featured Projects
+
+### 📋 SurveyLand — Frontend Project
+
+Team-based survey platform built during AfaaqWare training.
+
+**Tech:** Next.js, TypeScript, Tailwind CSS, React Query
+
+- 29 features, 31 UI screens, and 33 REST API endpoints.
+- Arabic RTL and English LTR support.
+- Authentication, OTP, role-based pages, and API integration.
+
+[Source Code](https://github.com/AfaaqWare/Surveyland-Team1-Round5)  
+[Live Demo](https://surveyland-team1-round5.vercel.app/)
+
+---
+
+### 🛒 Full-Stack E-Commerce Application
+
+E-commerce application with Laravel API and React frontend.
+
+**Tech:** Laravel, React, MySQL, Sanctum
+
+- User and admin authentication with role-based access control.
+- Product management, image uploads, cart, checkout, and orders.
+- Delivery management and order status tracking.
+
+[Source Code](https://github.com/MohamedMoamen/Ecommerce-FullStack-Application)
+
+---
+
+### 💬 Real-Time Chat Application
+
+Real-time messaging application with persistent conversations.
+
+**Tech:** Laravel, React, Laravel Reverb, WebSockets
+
+- Real-time messaging using WebSockets and Laravel Reverb.
+- Secure authentication and persistent chat history.
 
 [Source Code](https://github.com/MohamedMoamen/Realtime_Chat_Application)
 
 ---
 
-### 📇 CRM Module (Laravel + React)
+### 📊 CRM Module
 
-Role-based CRM platform with ticketing system and activity tracking.
+CRM system for managing customers, leads, deals, and support tickets.
 
-- Laravel API + React.js  
-- Role-based authentication (Admin, Sales, Support)  
-- Lead, deal, and ticket management
-- Ticket workflow with activity logs  
+**Tech:** Laravel, React, MySQL
+
+- Role-based access for Admin, Sales, and Support users.
+- Lead, customer, deal, and ticket management.
+- Activity logs, dashboards, and forms.
 
 [Source Code](https://github.com/MohamedMoamen/CRM_Module)
 
 ---
 
-### 🏫 Multi-Tenant School Management System (Laravel)
+### 🏫 Multi-Tenant School Management System
 
-SaaS-like school platform using tenant_id isolation.
+School management SaaS application with tenant-based data isolation.
 
-- Multi-tenant structure  
-- Blade-based admin panel  
-- Manage teachers, students, courses & enrollments  
+**Tech:** Laravel, React, Laravel React Starter Kit
+
+- Multi-tenant architecture using a single database with `tenant_id` isolation.
+- Role-based administration for teachers, students, courses, and enrollments.
 
 [Source Code](https://github.com/MohamedMoamen/multitenant_school_management_system_app)
-
----
-
-### 📊 Admin Dashboard Web Application (React)
-
-Interactive dashboard with charts & analytics.
-
-[Source Code](https://github.com/MohamedMoamen/Admin-Dashboard-App)  
-[Live Demo](https://admin-dashboard-app-opal.vercel.app/)
-
----
-
-### 🛍️ E-Commerce Shopping Cart (React)
-
-Functional shopping cart with dynamic totals & responsive UI.
-
-[Source Code](https://github.com/MohamedMoamen/E-commerceWebsite)  
-[Live Demo](https://e-commerce-website-cyan-sigma.vercel.app/)
-
----
-
-### 🌤️ Real-Time Weather Forecast App (React)
-
-Fetches real-time weather data with Arabic/English support.
-
-[Source Code](https://github.com/MohamedMoamen/WeatherForecast)  
-[Live Demo](https://weather-forecast-zeta-nine.vercel.app/)
 
