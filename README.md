@@ -37,7 +37,7 @@ I enjoy solving problems, writing clean and maintainable code, and continuously 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-000000?style=flat)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat)
 
