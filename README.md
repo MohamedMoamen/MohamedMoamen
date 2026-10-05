@@ -80,17 +80,6 @@ I enjoy solving problems, writing clean and maintainable code, and continuously 
 
 ---
 
-## 🎓 Education
-
-### Cairo University
-
-**B.S. in Electronics and Electrical Communication Engineering | 2020**
-
-**Graduation Project:**  
-Collision Avoidance and Warning System Using Convolutional Neural Network and V2V Communication
-
----
-
 ## 🚀 Featured Projects
 
 ### 📋 SurveyLand — Frontend Project
@@ -159,4 +148,15 @@ School management SaaS application with tenant-based data isolation.
 - Role-based administration for teachers, students, courses, and enrollments.
 
 [Source Code](https://github.com/MohamedMoamen/multitenant_school_management_system_app)
+
+---
+
+## 🎓 Education
+
+### Cairo University
+
+**B.S. in Electronics and Electrical Communication Engineering | 2020**
+
+**Graduation Project:**  
+Collision Avoidance and Warning System Using Convolutional Neural Network and V2V Communication
 
